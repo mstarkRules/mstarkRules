@@ -16,7 +16,7 @@
 
 <p align="center">
 <img width="220" height="150"  src="https://github-readme-stats.vercel.app/api/top-langs?username=mstarkrules&show_icons=true&locale=en&layout=compact" alt="mstarkrules" />
-<img  width="320" height="150"   src="https://github-readme-stats.vercel.app/api?username=mstarkrules&show_icons=true&locale=en" alt="mstarkrules" />
+<img  width="320" height="150"   src="https://github-readme-stats.vercel.app/api?username=mstarkrules&show_icons=true&locale=en&include_all_commits=true&count_private=true" alt="mstarkrules" />
 
  <img  width="270" height="150"   src="https://github-readme-streak-stats.herokuapp.com/?user=mstarkrules&" alt="mstarkrules" />
 
