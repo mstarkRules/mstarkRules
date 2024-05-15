@@ -3,13 +3,9 @@
 
 - 📝 I'm graduated in Information Systems since 2020
 
-- 🌱 I’m currently learning **Frontend** with **Nextjs, Reactjs and Html. Backend** with **Nodejs, Mongodb, Python Mysql and the like**
-
 - 👨‍💻 Some of my projects are available at [https://mpamorim.dev.br/](https://mpamorim.dev.br/)
 
 - 💬 Ask me about **Nextjs, Reactjs, Javascript, Html e whatever else you want, I can learn the answer :)**
-
-- 📄 Im my experiences I've worked as Frontend Freelancer Developer with Nextjs, Reactjs, Javascript and Wordpress since 2020.
 
 - 👔 Currently, I work at [Coinov](https://coinov.com.br/), where I work on diferent projects, dealing with technologies such as Python, AWS Lambda, Cognito, RDS (SQL), and Reactjs
 
