@@ -1,11 +1,11 @@
 <h1 align="center">Hi there, I'm Marcos!</h1>
-<h3 align="center">Frontend developer. Sometimes I do things in the backend too :)</h3>
+<h3 align="center">Fullstack developer :)</h3>
 
 - 📝 I'm graduated in Information Systems since 2020
 
 - 👨‍💻 Some of my projects are available at [https://mpamorim.dev.br/](https://mpamorim.dev.br/)
 
-- 💬 Ask me about **Nextjs, Reactjs, Javascript, Html e whatever else you want, I can learn the answer :)**
+- 💬 Ask me about **Reactjs, Javascript, Python, Html e whatever else you want, I can learn the answer :)**
 
 - 👔 Currently, I work at [Coinov](https://coinov.com.br/), where I work on diferent projects, dealing with technologies such as Python, AWS Lambda, Cognito, RDS (SQL), and Reactjs
 
